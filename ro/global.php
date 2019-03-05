@@ -15,7 +15,7 @@ $translations = array(
 
     'topnav3' => 'Twitter',
 
-    'topnav4' => 'blog-ul mpopp.net',
+    'topnav4' => 'Blog-ul mpopp.net',
 
     'topnav5' => 'phpMyAdmin',
 
